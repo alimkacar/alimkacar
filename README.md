@@ -14,4 +14,4 @@
 
 
 
-![snake gif](https://github.com/alimkacar/alimkacar/blob/output/github-contribution-grid-snake.gif)
+
