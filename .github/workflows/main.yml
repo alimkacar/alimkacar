@@ -1,17 +1,16 @@
-
 name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Her gün gece 00:00'da çalışır (UTC)
-  workflow_dispatch:      # Elle de başlatılabilir
+    - cron: "0 0 * * *"  # Her gün UTC 00:00'da (Türkiye saatiyle 03:00)
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate the snake animation
