@@ -80,11 +80,3 @@ Computer Engineering student building practical **AI systems** end-to-end — fr
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimkacar&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alimkacar/alimkacar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
