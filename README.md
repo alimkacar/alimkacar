@@ -61,7 +61,7 @@ class AlimKacar:
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alimkacar/alimkacar/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/alimkacar/alimkacar/output/github-snake.svg?v=2" alt="Contribution snake animation" width="100%" />
 </div>
 
 <br/>
