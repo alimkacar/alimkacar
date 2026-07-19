@@ -86,12 +86,12 @@ class AlimKacar:
     </td>
   </tr>
   <tr>
-    <td align="right"><b>&nbsp;Web / Backend&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,ts,js,cs,dotnet&theme=dark" alt="Web/Backend" /></td>
+    <td align="right"><b>&nbsp;Backend&nbsp;</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,cs&theme=dark" alt="Web/Backend" /></td>
   </tr>
   <tr>
     <td align="right"><b>&nbsp;Data / Infra&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,vscode&theme=dark" alt="Data/Infra" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github,linux,vscode&theme=dark" alt="Data/Infra" /></td>
   </tr>
 </table>
 
