@@ -116,7 +116,7 @@ class AlimKacar:
     </td>
     <td width="50%" valign="top">
       <!-- TODO: replace href with the RAG chatbot repo URL -->
-      <h3>📄 <a href="https://github.com/alimkacar/pdfchatbpotfinalversion">PDF-Based RAG Chatbot</a></h3>
+      <h3>📄 <a href="https://github.com/alimkacar/pdfchatbotfinalversion">PDF-Based RAG Chatbot</a></h3>
       <p>Hybrid retrieval (<b>TF-IDF + Sentence-Transformers</b>, RRF) over ChromaDB, local <b>Mistral</b> via Ollama, SSE streaming, and a <b>5-metric evaluation</b> pipeline.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
